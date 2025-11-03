@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "🌈 Welcome to CI Package Manager!"
+echo "📦 Package: hello-ci"
+echo "👤 User: $USER"
+echo "📅 Date: $(date)"
+echo "🚀 This proves the package manager is WORKING!"
+echo ""
+echo "Try these commands:"
+echo "  hello.py --name Alice"
+echo "  hello.py --repeat 3"
+echo "  greet.sh" 

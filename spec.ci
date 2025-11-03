@@ -1,0 +1,6 @@
+{
+  "name": "hello-ci",
+  "version": "1.0.0",
+  "description": "A simple hello world package for CI testing",
+  "main_files": ["hello.py", "greet.sh"]
+    }
